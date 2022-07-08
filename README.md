@@ -1,4 +1,4 @@
-## Olá, me chamo Erick Argollo e sou estudante de desenvolvimento Web na trybe.
+### Olá, me chamo Erick Argollo e sou estudante de desenvolvimento Web na trybe.
 
 <div align="center">
   <a href="https://github.com/ErickArgollo">
