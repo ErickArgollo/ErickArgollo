@@ -1,5 +1,8 @@
 ### Olá, me chamo Erick Argollo e sou estudante de desenvolvimento Web na trybe!
+## Seja bem-vindo(a) ao meu gitHub!
+###                    ![bem-vindo(a)](https://github.com/ErickArgollo/ErickArgollo/blob/main/urahara.gif)
 
+                                                               
 <div align="center">
   <a href="https://github.com/ErickArgollo">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ErickArgollo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
