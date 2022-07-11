@@ -4,7 +4,7 @@
 
 Sobre mim:
 - Me chamo Erick, sou de Salvador(BA) e tenho 22 anos!
-- Atualmente sou aluno da [Trybe] 🚀 (https://www.betrybe.com/) e estou estudando Desenvolvimento Web.
+- Atualmente sou aluno da [Trybe](https://www.betrybe.com/) :rocket: e estou estudando Desenvolvimento Web.
 - Gosto de conhecer pessoas e compartilhar aprendizados.
 ##
                                                                
