@@ -1,5 +1,5 @@
 
-## Bem-vindo(a), shinigami!
+## Bem-vindo(a), shinigami! 👻
 ![bem-vindo(a)](https://github.com/ErickArgollo/ErickArgollo/blob/main/urahara.gif)
 
 Sobre mim:
