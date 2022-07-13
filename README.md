@@ -1,6 +1,12 @@
 
 ## Bem-vindo(a), shinigami! 👻
-![bem-vindo(a)](https://github.com/ErickArgollo/ErickArgollo/blob/main/urahara.gif)
+<div align="center">
+  
+![bem-vindo(a)](https://github.com/ErickArgollo/ErickArgollo/blob/main/urahara.gif) 
+  
+</div>
+
+
 
 Sobre mim:
 - Me chamo Erick, sou de Salvador(BA) e tenho 22 anos!
